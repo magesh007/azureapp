@@ -1,6 +1,5 @@
 # Build output
-target/
-*.class
+target/*.class
 
 # Log file
 *.log
